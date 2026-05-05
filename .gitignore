@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Node and Playwright
+node_modules/
+playwright-report/
+test-results/
+/tools/playwright/runs/
+
+# Generated experiment artifacts
+/runs/*
+!/runs/README.md
+/experiments/*
+!/experiments/README.md
+/games/*
+!/games/README.md
+/games_clean/*
+!/games_clean/README.md
+
+# Local/editor files
+.DS_Store
+.env
+.env.*
+*.log
+*.pid
+
+# Generated media/results
+screenshots/
+artifacts/
+figs/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pdf

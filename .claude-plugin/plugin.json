@@ -1,0 +1,9 @@
+{
+  "name": "gamegen-verifier",
+  "version": "0.0.0",
+  "description": "GameGen-Verifier: state-grounded verification for game generation. Worker-side skills for keypoint extraction, state construction, short-interaction verification, and recheck.",
+  "author": {
+    "name": "Anonymous Authors"
+  },
+  "license": "MIT"
+}
