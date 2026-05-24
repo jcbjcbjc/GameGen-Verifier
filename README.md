@@ -23,7 +23,6 @@ Pipeline glue:
 
 Inputs and (git-ignored) outputs:
 
-- `descriptions_example/`: 10 example game descriptions in the input format the pipeline expects.
 - `games/`: generated evaluation-enabled game projects (not committed).
 - `games_clean/`: generated copies with the evaluation adapter stripped (not committed).
 - `runs/`: generated evaluation outputs (not committed).
